@@ -31,8 +31,8 @@ I help businesses recover from hacked WordPress sites — malware cleanup, backd
 - 💼 Agency: Ads Hunter — WordPress Malware Removal & Digital Marketing
 - 📺 YouTube: Hunter_Motiur (Ethical Hacking & Cybersecurity content in Bengali)
 - 🌐 Portfolio: *[add live link once hosted]*
-- ✉️ Email: *[add professional email]*
-- 💬 LinkedIn: *[add profile link]*
+- ✉️ Email: hunter.motiur@outlook.com
+- 💬 LinkedIn: https://www.linkedin.com/in/hunter-motiur
 
 ---
 ⭐ *Available for freelance/contract WordPress security work — malware cleanup, site hardening, and ongoing maintenance.*
